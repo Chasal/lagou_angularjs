@@ -1,0 +1,23 @@
+{
+  "name": "lagou_angularjs",
+  "homepage": "https://github.com/Chasal/lagou_angularjs",
+  "authors": [
+    "thomasli <lyz00054@163.com>"
+  ],
+  "description": "",
+  "main": "",
+  "keywords": [
+    "angularjs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.4"
+  }
+}
